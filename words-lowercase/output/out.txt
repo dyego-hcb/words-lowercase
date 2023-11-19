@@ -1,0 +1,4 @@
+este é um arquivo de teste.
+ele contém algumas palavras para demonstração.
+a conversão para minúsculas será realizada pelo script.
+espero que isso atenda às suas necessidades.
