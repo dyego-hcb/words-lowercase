@@ -1,3 +1,39 @@
+# Conversor para Minúsculas de Arquivos de Texto
+
+Este utilitário em Python foi projetado para converter o texto em um determinado arquivo para minúsculas. Pode ser particularmente útil quando se deseja padronizar a caixa das palavras em um documento de texto.
+
+## Uso
+
+1. Clone este repositório ou faça o download do código-fonte para o seu ambiente local.
+
+2. Abra o arquivo `words-lowercase.py`.
+
+3. Modifique a variável `nome_arquivo_entrada` para especificar o caminho do seu arquivo de texto de entrada.
+
+4. Modifique a variável `nome_arquivo_saida` para especificar o caminho e nome do arquivo de saída onde o texto convertido será salvo.
+
+5. Execute o script executando o arquivo Python (`words-lowercase.py`).
+
+6. Após a conclusão, o texto convertido será salvo no arquivo de saída especificado.
+
+## Estrutura do Diretório
+
+- A pasta **[Input](./input/)** contém um arquivo de texto de entrada de exemplo chamado `in.txt`.
+- A pasta **[Output](./output/)** é onde o texto convertido será salvo (o arquivo de saída padrão é `out.txt`).
+- A pasta **[Script](./script/)** contém o código-fonte do conversor de caixa de texto (`words-lowercase.py`).
+
+## Como Funciona
+
+O utilitário lê o conteúdo do arquivo de entrada especificado, converte todas as palavras para minúsculas e, em seguida, salva o resultado no arquivo de saída especificado.
+
+## Observação
+
+Certifique-se de personalizar as variáveis `nome_arquivo_entrada` e `nome_arquivo_saida` no script Python para corresponder aos caminhos do seu arquivo de entrada e saída.
+
+Sinta-se à vontade para usar este utilitário para padronizar a caixa das palavras em seus dados de texto!
+
+***
+
 # Text File Lower Case Converter
 
 This Python utility is designed to convert the text in a given file to lowercase. It can be particularly useful when you want to standardize the case of words in a text document.
